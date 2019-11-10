@@ -20,6 +20,51 @@
             "icon": "https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/ac/af/b3/acafb3a6-34f5-607f-d48f-9e83f2d415fd/source/512x512bb.jpg",
             "name": "蚂蚁庄园",
             "url": "alipays://platformapi/startapp?appId=66666674"
+        },
+        {
+            "icon": "https://github.com/LauncherApp/default-app-list/blob/master/assets/placeholder.png?raw=true",
+            "name": "QQ",
+            "url": "mqq://"
+        },
+        {
+            "icon": "https://github.com/LauncherApp/default-app-list/blob/master/assets/placeholder.png?raw=true",
+            "name": "微信扫一扫",
+            "url": "weixin://scanqrcode"
+        },
+        {
+            "icon": "https://github.com/LauncherApp/default-app-list/blob/master/assets/placeholder.png?raw=true",
+            "name": "微信读书",
+            "url": "weread://"
+        },
+        {
+            "icon": "https://github.com/LauncherApp/default-app-list/blob/master/assets/placeholder.png?raw=true",
+            "name": "滴滴",
+            "url": "diditaxi://"
+        },
+        {
+            "icon": "https://github.com/LauncherApp/default-app-list/blob/master/assets/placeholder.png?raw=true",
+            "name": "腾讯视频",
+            "url": "tenvideo://"
+        },
+        {
+            "icon": "https://github.com/LauncherApp/default-app-list/blob/master/assets/placeholder.png?raw=true",
+            "name": "淘宝",
+            "url": "taobao://"
+        },
+        {
+            "icon": "https://github.com/LauncherApp/default-app-list/blob/master/assets/placeholder.png?raw=true",
+            "name": "支付宝扫一扫",
+            "url": "alipayqr://platformapi/startapp?saId=10000007"
+        },
+        {
+            "icon": "https://github.com/LauncherApp/default-app-list/blob/master/assets/placeholder.png?raw=true",
+            "name": "支付宝付款",
+            "url": "alipay://platformapi/startapp?appId=20000056"
+        },
+        {
+            "icon": "https://github.com/LauncherApp/default-app-list/blob/master/assets/placeholder.png?raw=true",
+            "name": "网易云音乐",
+            "url": "orpheuswidget://"
         }
     ]
 }
