@@ -1,0 +1,25 @@
+{
+    "version": "0.0.1",
+    "data": [
+        {
+            "icon": "",
+            "name": "微信",
+            "url": "weixin://"
+        },
+        {
+            "icon": "",
+            "name": "支付宝",
+            "url": "alipay://"
+        },
+        {
+            "icon": "",
+            "name": "蚂蚁森林",
+            "url": "alipay://platformapi/startapp?appId=60000002"
+        },
+        {
+            "icon": "",
+            "name": "蚂蚁庄园",
+            "url": "alipays://platformapi/startapp?appId=66666674"
+        }
+    ]
+}
