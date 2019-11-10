@@ -2,22 +2,22 @@
     "version": "0.0.1",
     "data": [
         {
-            "icon": "",
+            "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/0f/bc/3c/0fbc3c2a-f664-c4e3-bda2-970146031f0e/source/512x512bb.jpg",
             "name": "微信",
             "url": "weixin://"
         },
         {
-            "icon": "",
+            "icon": "https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/ac/af/b3/acafb3a6-34f5-607f-d48f-9e83f2d415fd/source/512x512bb.jpg",
             "name": "支付宝",
             "url": "alipay://"
         },
         {
-            "icon": "",
+            "icon": "https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/ac/af/b3/acafb3a6-34f5-607f-d48f-9e83f2d415fd/source/512x512bb.jpg",
             "name": "蚂蚁森林",
             "url": "alipay://platformapi/startapp?appId=60000002"
         },
         {
-            "icon": "",
+            "icon": "https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/ac/af/b3/acafb3a6-34f5-607f-d48f-9e83f2d415fd/source/512x512bb.jpg",
             "name": "蚂蚁庄园",
             "url": "alipays://platformapi/startapp?appId=66666674"
         }
