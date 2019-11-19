@@ -23,6 +23,11 @@
         },
         {
             "icon": "https://github.com/LauncherApp/default-app-list/blob/master/assets/placeholder.png?raw=true",
+            "name": "Shadowrocket",
+            "url": "shadowrocket://connect"
+        },
+        {
+            "icon": "https://github.com/LauncherApp/default-app-list/blob/master/assets/placeholder.png?raw=true",
             "name": "QQ",
             "url": "mqq://"
         },
