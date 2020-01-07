@@ -1,1 +1,75 @@
-
+{
+  "version": "0.0.1",
+  "data": [
+    {
+      "icon": "https://github.com/LauncherApp/default-app-list/blob/master/assets/placeholder.png?raw=true",
+      "name": "About",
+      "url": "app-settings:root=General&path=About"
+    },
+    {
+      "icon": "https://github.com/LauncherApp/default-app-list/blob/master/assets/placeholder.png?raw=true",
+      "name": "ACCESSIBILITY",
+      "url": "app-settings:root=General&path=ACCESSIBILITY"
+    },
+    {
+      "icon": "https://github.com/LauncherApp/default-app-list/blob/master/assets/placeholder.png?raw=true",
+      "name": "AIRPLANE_MODE",
+      "url": "app-settings:root=AIRPLANE_MODE"
+    },
+    {
+      "icon": "https://github.com/LauncherApp/default-app-list/blob/master/assets/placeholder.png?raw=true",
+      "name": "AUTOLOCK",
+      "url": "app-settings:root=General&path=AUTOLOCK"
+    },
+    {
+      "icon": "https://github.com/LauncherApp/default-app-list/blob/master/assets/placeholder.png?raw=true",
+      "name": "CELLULAR_USAGE",
+      "url": "app-settings:root=General&path=USAGE/CELLULAR_USAGE"
+    },
+    {
+      "icon": "https://github.com/LauncherApp/default-app-list/blob/master/assets/placeholder.png?raw=true",
+      "name": "Brightness",
+      "url": "app-settings:root=Brightness"
+    },
+    {
+      "icon": "https://github.com/LauncherApp/default-app-list/blob/master/assets/placeholder.png?raw=true",
+      "name": "Bluetooth",
+      "url": "app-settings:root=General&path=Bluetooth"
+    },
+    {
+      "icon": "https://github.com/LauncherApp/default-app-list/blob/master/assets/placeholder.png?raw=true",
+      "name": "DATE_AND_TIME",
+      "url": "app-settings:root=General&path=DATE_AND_TIME"
+    },
+    {
+      "icon": "https://github.com/LauncherApp/default-app-list/blob/master/assets/placeholder.png?raw=true",
+      "name": "FACETIME",
+      "url": "app-settings:root=FACETIME"
+    },
+    {
+      "icon": "https://github.com/LauncherApp/default-app-list/blob/master/assets/placeholder.png?raw=true",
+      "name": "General",
+      "url": "app-settings:root=General"
+    },
+    {
+      "icon": "https://github.com/LauncherApp/default-app-list/blob/master/assets/placeholder.png?raw=true",
+      "name": "Keyboard",
+      "url": "app-settings:root=General&path=Keyboard"
+    },
+    {
+      "icon": "https://github.com/LauncherApp/default-app-list/blob/master/assets/placeholder.png?raw=true",
+      "name": "CASTLE",
+      "url": "app-settings:root=CASTLE"
+    },
+    {
+      "icon": "https://github.com/LauncherApp/default-app-list/blob/master/assets/placeholder.png?raw=true",
+      "name": "STORAGE_AND_BACKUP",
+      "url": "app-settings:root=CASTLE&path=STORAGE_AND_BACKUP"
+    },
+    {
+      "icon": "https://github.com/LauncherApp/default-app-list/blob/master/assets/placeholder.png?raw=true",
+      "name": "INTERNATIONAL",
+      "url": "app-settings:root=General&path=INTERNATIONAL"
+    }
+  ]
+}
