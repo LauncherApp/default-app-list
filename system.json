@@ -34,7 +34,7 @@
     {
       "icon": "https://github.com/LauncherApp/default-app-list/blob/master/assets/placeholder.png?raw=true",
       "name": "Bluetooth",
-      "url": "app-settings:root=General&path=Bluetooth"
+      "url": "prefs:root=Bluetooth"
     },
     {
       "icon": "https://github.com/LauncherApp/default-app-list/blob/master/assets/placeholder.png?raw=true",
@@ -59,7 +59,7 @@
     {
       "icon": "https://github.com/LauncherApp/default-app-list/blob/master/assets/placeholder.png?raw=true",
       "name": "CASTLE",
-      "url": "app-settings:root=CASTLE"
+      "url": "prefs:root=CASTLE"
     },
     {
       "icon": "https://github.com/LauncherApp/default-app-list/blob/master/assets/placeholder.png?raw=true",
