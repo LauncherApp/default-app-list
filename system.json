@@ -1,75 +1,143 @@
 {
   "version": "0.0.1",
-  "data": [
-    {
+  "data": [{
       "icon": "https://github.com/LauncherApp/default-app-list/blob/master/assets/placeholder.png?raw=true",
-      "name": "About",
-      "url": "app-settings:root=General&path=About"
+      "name": "Music",
+      "url": "music://"
     },
     {
       "icon": "https://github.com/LauncherApp/default-app-list/blob/master/assets/placeholder.png?raw=true",
-      "name": "ACCESSIBILITY",
-      "url": "app-settings:root=General&path=ACCESSIBILITY"
+      "name": "Apple News",
+      "url": "applenews://"
     },
     {
       "icon": "https://github.com/LauncherApp/default-app-list/blob/master/assets/placeholder.png?raw=true",
-      "name": "AIRPLANE_MODE",
-      "url": "app-settings:root=AIRPLANE_MODE"
+      "name": "App Store",
+      "url": "itms-apps://itunes.apple.com"
     },
     {
       "icon": "https://github.com/LauncherApp/default-app-list/blob/master/assets/placeholder.png?raw=true",
-      "name": "AUTOLOCK",
-      "url": "app-settings:root=General&path=AUTOLOCK"
+      "name": "Apple TV",
+      "url": "videos://"
     },
     {
       "icon": "https://github.com/LauncherApp/default-app-list/blob/master/assets/placeholder.png?raw=true",
-      "name": "CELLULAR_USAGE",
-      "url": "app-settings:root=General&path=USAGE/CELLULAR_USAGE"
+      "name": "Feedback",
+      "url": "applefeedback://"
     },
     {
       "icon": "https://github.com/LauncherApp/default-app-list/blob/master/assets/placeholder.png?raw=true",
-      "name": "Brightness",
-      "url": "app-settings:root=Brightness"
+      "name": "Find My Friends",
+      "url": "findmyfriends://"
     },
     {
       "icon": "https://github.com/LauncherApp/default-app-list/blob/master/assets/placeholder.png?raw=true",
-      "name": "Bluetooth",
-      "url": "prefs:root=Bluetooth"
+      "name": "Find My iPhone",
+      "url": "fmip1://"
     },
     {
       "icon": "https://github.com/LauncherApp/default-app-list/blob/master/assets/placeholder.png?raw=true",
-      "name": "DATE_AND_TIME",
-      "url": "app-settings:root=General&path=DATE_AND_TIME"
+      "name": "iBooks",
+      "url": "ibooks://"
     },
     {
       "icon": "https://github.com/LauncherApp/default-app-list/blob/master/assets/placeholder.png?raw=true",
-      "name": "FACETIME",
-      "url": "app-settings:root=FACETIME"
+      "name": "iMovie",
+      "url": "imovie://"
     },
     {
       "icon": "https://github.com/LauncherApp/default-app-list/blob/master/assets/placeholder.png?raw=true",
-      "name": "General",
-      "url": "app-settings:root=General"
+      "name": "iTunes Remote",
+      "url": "remote://"
     },
     {
       "icon": "https://github.com/LauncherApp/default-app-list/blob/master/assets/placeholder.png?raw=true",
-      "name": "Keyboard",
-      "url": "app-settings:root=General&path=Keyboard"
+      "name": "iTunes Store",
+      "url": "itms://"
     },
     {
       "icon": "https://github.com/LauncherApp/default-app-list/blob/master/assets/placeholder.png?raw=true",
-      "name": "CASTLE",
-      "url": "prefs:root=CASTLE"
+      "name": "Maps",
+      "url": "map://"
     },
     {
       "icon": "https://github.com/LauncherApp/default-app-list/blob/master/assets/placeholder.png?raw=true",
-      "name": "STORAGE_AND_BACKUP",
-      "url": "app-settings:root=CASTLE&path=STORAGE_AND_BACKUP"
+      "name": "iTunes U",
+      "url": "itms-itunesu://"
     },
     {
       "icon": "https://github.com/LauncherApp/default-app-list/blob/master/assets/placeholder.png?raw=true",
-      "name": "INTERNATIONAL",
-      "url": "app-settings:root=General&path=INTERNATIONAL"
+      "name": "Mail",
+      "url": "message://"
+    },
+    {
+      "icon": "",
+      "name": "Messages",
+      "url": "sms://",
+      "need_extra": true,
+      "extra_text": "请输出邮箱或手机号"
+    },
+    {
+      "icon": "https://github.com/LauncherApp/default-app-list/blob/master/assets/placeholder.png?raw=true",
+      "name": "Notes",
+      "url": "mobilenotes://"
+    },
+    {
+      "icon": "",
+      "name": "Phone",
+      "url": "tel://",
+      "need_extra": true,
+      "extra_text": "请输出邮箱或手机号"
+    },
+    {
+      "icon": "https://github.com/LauncherApp/default-app-list/blob/master/assets/placeholder.png?raw=true",
+      "name": "Photos",
+      "url": "photos-redirect://"
+    },
+    {
+      "icon": "https://github.com/LauncherApp/default-app-list/blob/master/assets/placeholder.png?raw=true",
+      "name": "Podcasts",
+      "url": "podcast://"
+    },
+    {
+      "icon": "https://github.com/LauncherApp/default-app-list/blob/master/assets/placeholder.png?raw=true",
+      "name": "Reminders",
+      "url": "x-apple-reminder://"
+    },
+    {
+      "icon": "https://github.com/LauncherApp/default-app-list/blob/master/assets/placeholder.png?raw=true",
+      "name": "Safari",
+      "url": "x-web-search://"
+    },
+    {
+      "icon": "https://github.com/LauncherApp/default-app-list/blob/master/assets/placeholder.png?raw=true",
+      "name": "Settings",
+      "url": "App-prefs://"
+    },
+    {
+      "icon": "https://github.com/LauncherApp/default-app-list/blob/master/assets/placeholder.png?raw=true",
+      "name": "Shortcuts",
+      "url": "shortcuts://"
+    },
+    {
+      "icon": "https://github.com/LauncherApp/default-app-list/blob/master/assets/placeholder.png?raw=true",
+      "name": "Voice Memos",
+      "url": "voicememos://"
+    },
+    {
+      "icon": "https://github.com/LauncherApp/default-app-list/blob/master/assets/placeholder.png?raw=true",
+      "name": "Wallet",
+      "url": "shoebox://"
+    },
+    {
+      "icon": "https://github.com/LauncherApp/default-app-list/blob/master/assets/placeholder.png?raw=true",
+      "name": "Watch",
+      "url": "itms-watchs://"
+    },
+    {
+      "icon": "https://github.com/LauncherApp/default-app-list/blob/master/assets/placeholder.png?raw=true",
+      "name": "Workflow",
+      "url": "workflow://"
     }
   ]
 }
