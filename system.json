@@ -1,6 +1,7 @@
 {
-  "version": "0.0.1",
-  "data": [{
+  "version": "0.0.2",
+  "data": [
+    {
       "icon": "https://github.com/LauncherApp/default-app-list/blob/master/assets/placeholder.png?raw=true",
       "name": "Music",
       "url": "music://"
@@ -71,7 +72,7 @@
       "url": "message://"
     },
     {
-      "icon": "",
+      "icon": "https://github.com/LauncherApp/default-app-list/blob/master/assets/placeholder.png?raw=true",
       "name": "Messages",
       "url": "sms://",
       "need_extra": true,
@@ -83,7 +84,7 @@
       "url": "mobilenotes://"
     },
     {
-      "icon": "",
+      "icon": "https://github.com/LauncherApp/default-app-list/blob/master/assets/placeholder.png?raw=true",
       "name": "Phone",
       "url": "tel://",
       "need_extra": true,
