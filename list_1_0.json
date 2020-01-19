@@ -113,11 +113,23 @@
     },
     {
       "name": "视频",
-      "categories": []
+      "categories": [
+        {
+          "name": "腾讯视频",
+          "url": "tenvideo://",
+          "icon": ""
+        }
+      ]
     },
     {
       "name": "其他",
-      "categories": []
+      "categories": [
+        {
+          "name": "PPhud",
+          "url": "pphub://"
+          "icon": ""
+        }
+      ]
     },
     {
       "name": "社交",
