@@ -113,23 +113,21 @@
     },
     {
       "name": "视频",
-      "category": []
+      "categories": []
     },
     {
       "name": "其他",
-      "category": []
+      "categories": []
     },
     {
-      "category": {
-        "name": "社交",
-        "categories": [
-          {
-            "name": "QQ HD",
-            "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/0f/bc/3c/0fbc3c2a-f664-c4e3-bda2-970146031f0e/source/512x512bb.jpg",
-            "url": "mqqflytickets://"
-          }
-        ]
-      }
+      "name": "社交",
+      "categories": [
+        {
+          "name": "QQ HD",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/0f/bc/3c/0fbc3c2a-f664-c4e3-bda2-970146031f0e/source/512x512bb.jpg",
+          "url": "mqqflytickets://"
+        }
+      ]
     }
   ]
 }
