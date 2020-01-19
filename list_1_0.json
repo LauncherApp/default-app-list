@@ -126,7 +126,7 @@
       "categories": [
         {
           "name": "PPhud",
-          "url": "pphub://"
+          "url": "pphub://",
           "icon": ""
         }
       ]
