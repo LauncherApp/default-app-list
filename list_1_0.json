@@ -1,0 +1,135 @@
+{
+  "version": "0.0.1",
+  "data": [
+    {
+      "name": "常用",
+      "categories": [
+        {
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/0f/bc/3c/0fbc3c2a-f664-c4e3-bda2-970146031f0e/source/512x512bb.jpg",
+          "name": "微信",
+          "url": "weixin://"
+        },
+        {
+          "name": "微信扫一扫",
+          "url": "weixin://scanqrcode",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/0f/bc/3c/0fbc3c2a-f664-c4e3-bda2-970146031f0e/source/512x512bb.jpg"
+        },
+        {
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/0f/bc/3c/0fbc3c2a-f664-c4e3-bda2-970146031f0e/source/512x512bb.jpg",
+          "name": "QQ",
+          "url": "mqq://"
+        },
+        {
+          "icon": "https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/ac/af/b3/acafb3a6-34f5-607f-d48f-9e83f2d415fd/source/512x512bb.jpg",
+          "name": "支付宝",
+          "url": "alipay://"
+        },
+        {
+          "icon": "https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/ac/af/b3/acafb3a6-34f5-607f-d48f-9e83f2d415fd/source/512x512bb.jpg",
+          "name": "蚂蚁森林",
+          "url": "alipay://platformapi/startapp?appId=60000002"
+        },
+        {
+          "icon": "https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/ac/af/b3/acafb3a6-34f5-607f-d48f-9e83f2d415fd/source/512x512bb.jpg",
+          "name": "蚂蚁庄园",
+          "url": "alipays://platformapi/startapp?appId=66666674"
+        },
+        {
+          "name": "支付宝扫一扫",
+          "url": "alipayqr://platformapi/startapp?saId=10000007",
+          "icon": "https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/ac/af/b3/acafb3a6-34f5-607f-d48f-9e83f2d415fd/source/512x512bb.jpg"
+        },
+        {
+          "name": "支付宝付款",
+          "url": "alipay://platformapi/startapp?appId=20000056",
+          "icon": "https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/ac/af/b3/acafb3a6-34f5-607f-d48f-9e83f2d415fd/source/512x512bb.jpg"
+        },
+        {
+          "name": "支付宝记账",
+          "url": "alipay://platformapi/startapp?appId=20000168",
+          "icon": ""
+        },
+        {
+          "name": "支付宝滴滴",
+          "url": "alipay://platformapi/startapp?appId=20000778",
+          "icon": ""
+        },
+        {
+          "name": "支付宝转账",
+          "url": "alipayqr://platformapi/startapp?saId=20000116",
+          "icon": ""
+        },
+        {
+          "name": "支付宝手机充值",
+          "url": "alipayqr: //platformapi/startapp?saId=10000003",
+          "icon": ""
+        },
+        {
+          "name": "口令红包",
+          "url": "alipayqr://platformapi/startapp?saId=88886666",
+          "icon": ""
+        },
+        {
+          "name": "蚂蚁宝卡",
+          "url": "alipays://platformapi/startapp?appId=60000057",
+          "icon": ""
+        },
+        {
+          "name": "淘宝",
+          "url": "taobao://",
+          "icon": ""
+        }
+      ]
+    },
+    {
+      "name": "网页",
+      "categories": [
+        {
+          "name": "腾讯视频网页版",
+          "url": "https://v.qq.com",
+          "icon": ""
+        },
+        {
+          "name": "爱奇艺网页版",
+          "url": "https://iqiyi.com",
+          "icon": ""
+        },
+        {
+          "name": "优酷网页版",
+          "url": "https://youku.com",
+          "icon": ""
+        },
+        {
+          "name": "芒果TV网页版",
+          "url": "https://mgtv.com",
+          "icon": ""
+        },
+        {
+          "name": "乐视网页版",
+          "url": "http://le.com",
+          "icon": ""
+        }
+      ]
+    },
+    {
+      "name": "视频",
+      "category": []
+    },
+    {
+      "name": "其他",
+      "category": []
+    },
+    {
+      "category": {
+        "name": "社交",
+        "categories": [
+          {
+            "name": "QQ HD",
+            "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/0f/bc/3c/0fbc3c2a-f664-c4e3-bda2-970146031f0e/source/512x512bb.jpg",
+            "url": "mqqflytickets://"
+          }
+        ]
+      }
+    }
+  ]
+}
