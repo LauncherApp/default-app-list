@@ -15,69 +15,69 @@
           "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/0f/bc/3c/0fbc3c2a-f664-c4e3-bda2-970146031f0e/source/512x512bb.jpg"
         },
         {
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/0f/bc/3c/0fbc3c2a-f664-c4e3-bda2-970146031f0e/source/512x512bb.jpg",
+          "icon": "https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/ac/4d/07/ac4d0758-2717-38f4-e5b5-6b329ed2d6e5/source/60x60bb.jpg",
           "name": "QQ",
           "url": "mqq://"
         },
         {
-          "icon": "https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/ac/af/b3/acafb3a6-34f5-607f-d48f-9e83f2d415fd/source/512x512bb.jpg",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/52/7c/b0/527cb0ac-3e20-7b34-0562-db842d79cab8/source/60x60bb.jpg",
           "name": "支付宝",
           "url": "alipay://"
         },
         {
-          "icon": "https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/ac/af/b3/acafb3a6-34f5-607f-d48f-9e83f2d415fd/source/512x512bb.jpg",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/52/7c/b0/527cb0ac-3e20-7b34-0562-db842d79cab8/source/60x60bb.jpg",
           "name": "蚂蚁森林",
           "url": "alipay://platformapi/startapp?appId=60000002"
         },
         {
-          "icon": "https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/ac/af/b3/acafb3a6-34f5-607f-d48f-9e83f2d415fd/source/512x512bb.jpg",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/52/7c/b0/527cb0ac-3e20-7b34-0562-db842d79cab8/source/60x60bb.jpg",
           "name": "蚂蚁庄园",
           "url": "alipays://platformapi/startapp?appId=66666674"
         },
         {
           "name": "支付宝扫一扫",
           "url": "alipayqr://platformapi/startapp?saId=10000007",
-          "icon": "https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/ac/af/b3/acafb3a6-34f5-607f-d48f-9e83f2d415fd/source/512x512bb.jpg"
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/52/7c/b0/527cb0ac-3e20-7b34-0562-db842d79cab8/source/60x60bb.jpg"
         },
         {
           "name": "支付宝付款",
           "url": "alipay://platformapi/startapp?appId=20000056",
-          "icon": "https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/ac/af/b3/acafb3a6-34f5-607f-d48f-9e83f2d415fd/source/512x512bb.jpg"
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/52/7c/b0/527cb0ac-3e20-7b34-0562-db842d79cab8/source/60x60bb.jpg"
         },
         {
           "name": "支付宝记账",
           "url": "alipay://platformapi/startapp?appId=20000168",
-          "icon": ""
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/52/7c/b0/527cb0ac-3e20-7b34-0562-db842d79cab8/source/60x60bb.jpg"
         },
         {
           "name": "支付宝滴滴",
           "url": "alipay://platformapi/startapp?appId=20000778",
-          "icon": ""
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/52/7c/b0/527cb0ac-3e20-7b34-0562-db842d79cab8/source/60x60bb.jpg"
         },
         {
           "name": "支付宝转账",
           "url": "alipayqr://platformapi/startapp?saId=20000116",
-          "icon": ""
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/52/7c/b0/527cb0ac-3e20-7b34-0562-db842d79cab8/source/60x60bb.jpg"
         },
         {
           "name": "支付宝手机充值",
           "url": "alipayqr: //platformapi/startapp?saId=10000003",
-          "icon": ""
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/52/7c/b0/527cb0ac-3e20-7b34-0562-db842d79cab8/source/60x60bb.jpg"
         },
         {
           "name": "口令红包",
           "url": "alipayqr://platformapi/startapp?saId=88886666",
-          "icon": ""
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/52/7c/b0/527cb0ac-3e20-7b34-0562-db842d79cab8/source/60x60bb.jpg"
         },
         {
           "name": "蚂蚁宝卡",
           "url": "alipays://platformapi/startapp?appId=60000057",
-          "icon": ""
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/52/7c/b0/527cb0ac-3e20-7b34-0562-db842d79cab8/source/60x60bb.jpg"
         },
         {
           "name": "淘宝",
           "url": "taobao://",
-          "icon": ""
+          "icon": "https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/ec/b4/1b/ecb41be4-7e56-a93b-e78a-ec9b74791e00/source/60x60bb.jpg"
         }
       ]
     },
@@ -87,27 +87,27 @@
         {
           "name": "腾讯视频网页版",
           "url": "https://v.qq.com",
-          "icon": ""
+          "icon": "https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/d5/45/d1/d545d165-3629-5ad8-4b8d-f546f944e289/source/60x60bb.jpg"
         },
         {
           "name": "爱奇艺网页版",
           "url": "https://iqiyi.com",
-          "icon": ""
+          "icon": "https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/51/f0/36/51f03630-f0f2-b907-5aad-295ee24d204b/source/60x60bb.jpg"
         },
         {
           "name": "优酷网页版",
           "url": "https://youku.com",
-          "icon": ""
+          "icon": "https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/3f/a9/d9/3fa9d97c-df16-86b3-1aa5-32235762ade6/source/60x60bb.jpg"
         },
         {
           "name": "芒果TV网页版",
           "url": "https://mgtv.com",
-          "icon": ""
+          "icon": "https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/34/e1/5b/34e15bba-5e09-af78-bc9d-5b03e7ae8f14/source/60x60bb.jpg"
         },
         {
           "name": "乐视网页版",
           "url": "http://le.com",
-          "icon": ""
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/e8/c4/a6/e8c4a6ed-7ac5-e34d-56b7-b804bdf850d7/source/60x60bb.jpg"
         }
       ]
     },
@@ -117,7 +117,7 @@
         {
           "name": "腾讯视频",
           "url": "tenvideo://",
-          "icon": ""
+          "icon": "https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/d5/45/d1/d545d165-3629-5ad8-4b8d-f546f944e289/source/60x60bb.jpg"
         }
       ]
     },
@@ -125,9 +125,9 @@
       "name": "其他",
       "categories": [
         {
-          "name": "PPhud",
+          "name": "PPhub",
           "url": "pphub://",
-          "icon": ""
+          "icon": "https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/40/87/86/408786b6-1431-d94e-9701-5ca8e41e6125/source/60x60bb.jpg"
         }
       ]
     },
@@ -136,7 +136,7 @@
       "categories": [
         {
           "name": "QQ HD",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/0f/bc/3c/0fbc3c2a-f664-c4e3-bda2-970146031f0e/source/512x512bb.jpg",
+          "icon": "https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/ac/4d/07/ac4d0758-2717-38f4-e5b5-6b329ed2d6e5/source/60x60bb.jpg",
           "url": "mqqflytickets://"
         }
       ]
