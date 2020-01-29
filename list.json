@@ -55,51 +55,6 @@
           "url": "alipay://"
         },
         {
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/52/7c/b0/527cb0ac-3e20-7b34-0562-db842d79cab8/source/60x60bb.jpg",
-          "name": "蚂蚁森林",
-          "url": "alipay://platformapi/startapp?appId=60000002"
-        },
-        {
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/52/7c/b0/527cb0ac-3e20-7b34-0562-db842d79cab8/source/60x60bb.jpg",
-          "name": "蚂蚁庄园",
-          "url": "alipays://platformapi/startapp?appId=66666674"
-        },
-        {
-          "name": "支付宝扫一扫",
-          "url": "alipayqr://platformapi/startapp?saId=10000007",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/52/7c/b0/527cb0ac-3e20-7b34-0562-db842d79cab8/source/60x60bb.jpg"
-        },
-        {
-          "name": "支付宝记账",
-          "url": "alipay://platformapi/startapp?appId=20000168",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/52/7c/b0/527cb0ac-3e20-7b34-0562-db842d79cab8/source/60x60bb.jpg"
-        },
-        {
-          "name": "支付宝滴滴",
-          "url": "alipay://platformapi/startapp?appId=20000778",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/52/7c/b0/527cb0ac-3e20-7b34-0562-db842d79cab8/source/60x60bb.jpg"
-        },
-        {
-          "name": "支付宝转账",
-          "url": "alipayqr://platformapi/startapp?saId=20000116",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/52/7c/b0/527cb0ac-3e20-7b34-0562-db842d79cab8/source/60x60bb.jpg"
-        },
-        {
-          "name": "支付宝手机充值",
-          "url": "alipayqr: //platformapi/startapp?saId=10000003",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/52/7c/b0/527cb0ac-3e20-7b34-0562-db842d79cab8/source/60x60bb.jpg"
-        },
-        {
-          "name": "口令红包",
-          "url": "alipayqr://platformapi/startapp?saId=88886666",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/52/7c/b0/527cb0ac-3e20-7b34-0562-db842d79cab8/source/60x60bb.jpg"
-        },
-        {
-          "name": "蚂蚁宝卡",
-          "url": "alipays://platformapi/startapp?appId=60000057",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/52/7c/b0/527cb0ac-3e20-7b34-0562-db842d79cab8/source/60x60bb.jpg"
-        },
-        {
           "name": "淘宝",
           "url": "taobao://",
           "icon": "https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/ec/b4/1b/ecb41be4-7e56-a93b-e78a-ec9b74791e00/source/60x60bb.jpg"
@@ -164,6 +119,56 @@
           "icon": "https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/d1/f7/0c/d1f70cd0-0b37-fee9-3694-10cf46bc78a2/source/60x60bb.jpg",
           "url": "sinaweibo://"
         }
+      ]
+    },
+    {
+      "name": "支付宝集合",
+      "categories": [
+        {
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/52/7c/b0/527cb0ac-3e20-7b34-0562-db842d79cab8/source/60x60bb.jpg",
+          "name": "蚂蚁森林",
+          "url": "alipay://platformapi/startapp?appId=60000002"
+        },
+        {
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/52/7c/b0/527cb0ac-3e20-7b34-0562-db842d79cab8/source/60x60bb.jpg",
+          "name": "蚂蚁庄园",
+          "url": "alipays://platformapi/startapp?appId=66666674"
+        },
+        {
+          "name": "支付宝扫一扫",
+          "url": "alipayqr://platformapi/startapp?saId=10000007",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/52/7c/b0/527cb0ac-3e20-7b34-0562-db842d79cab8/source/60x60bb.jpg"
+        },
+        {
+          "name": "支付宝记账",
+          "url": "alipay://platformapi/startapp?appId=20000168",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/52/7c/b0/527cb0ac-3e20-7b34-0562-db842d79cab8/source/60x60bb.jpg"
+        },
+        {
+          "name": "支付宝滴滴",
+          "url": "alipay://platformapi/startapp?appId=20000778",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/52/7c/b0/527cb0ac-3e20-7b34-0562-db842d79cab8/source/60x60bb.jpg"
+        },
+        {
+          "name": "支付宝转账",
+          "url": "alipayqr://platformapi/startapp?saId=20000116",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/52/7c/b0/527cb0ac-3e20-7b34-0562-db842d79cab8/source/60x60bb.jpg"
+        },
+        {
+          "name": "支付宝手机充值",
+          "url": "alipayqr: //platformapi/startapp?saId=10000003",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/52/7c/b0/527cb0ac-3e20-7b34-0562-db842d79cab8/source/60x60bb.jpg"
+        },
+        {
+          "name": "口令红包",
+          "url": "alipayqr://platformapi/startapp?saId=88886666",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/52/7c/b0/527cb0ac-3e20-7b34-0562-db842d79cab8/source/60x60bb.jpg"
+        },
+        {
+          "name": "蚂蚁宝卡",
+          "url": "alipays://platformapi/startapp?appId=60000057",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/52/7c/b0/527cb0ac-3e20-7b34-0562-db842d79cab8/source/60x60bb.jpg"
+        },
       ]
     },
     {
