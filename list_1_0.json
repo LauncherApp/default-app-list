@@ -55,6 +55,76 @@
           "url": "alipay://"
         },
         {
+          "name": "淘宝",
+          "url": "taobao://",
+          "icon": "https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/ec/b4/1b/ecb41be4-7e56-a93b-e78a-ec9b74791e00/source/60x60bb.jpg"
+        }
+      ]
+    },
+    {
+      "name": "网页",
+      "categories": [
+        {
+          "name": "腾讯视频网页版",
+          "url": "https://v.qq.com",
+          "icon": "https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/d5/45/d1/d545d165-3629-5ad8-4b8d-f546f944e289/source/60x60bb.jpg"
+        },
+        {
+          "name": "爱奇艺网页版",
+          "url": "https://iqiyi.com",
+          "icon": "https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/51/f0/36/51f03630-f0f2-b907-5aad-295ee24d204b/source/60x60bb.jpg"
+        },
+        {
+          "name": "优酷网页版",
+          "url": "https://youku.com",
+          "icon": "https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/3f/a9/d9/3fa9d97c-df16-86b3-1aa5-32235762ade6/source/60x60bb.jpg"
+        },
+        {
+          "name": "芒果TV网页版",
+          "url": "https://mgtv.com",
+          "icon": "https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/34/e1/5b/34e15bba-5e09-af78-bc9d-5b03e7ae8f14/source/60x60bb.jpg"
+        },
+        {
+          "name": "乐视网页版",
+          "url": "http://le.com",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/e8/c4/a6/e8c4a6ed-7ac5-e34d-56b7-b804bdf850d7/source/60x60bb.jpg"
+        },
+        {
+          "name": "微博热搜",
+          "url": "https://s.weibo.com/top/summary?cate=realtimehot",
+          "icon": "https://m.weibo.cn/favicon.ico"
+        }
+      ]
+    },
+    {
+      "name": "社交",
+      "categories": [
+        {
+          "name": "QQ HD",
+          "icon": "https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/ac/4d/07/ac4d0758-2717-38f4-e5b5-6b329ed2d6e5/source/60x60bb.jpg",
+          "url": "mqqflytickets://"
+        },
+        {
+          "name": "知乎",
+          "url": "zhihu://",
+          "icon": "https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/81/ec/79/81ec7958-542c-d1c7-7301-dde8f2045854/source/512x512bb.jpg"
+        },
+        {
+          "name": "微博极速版",
+          "icon": "https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/a3/80/5f/a3805fa0-66f2-ed14-582b-0e6dffa52130/source/512x512bb.jpg",
+          "url": "weibo://"
+        },
+        {
+          "name": "微博",
+          "icon": "https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/d1/f7/0c/d1f70cd0-0b37-fee9-3694-10cf46bc78a2/source/60x60bb.jpg",
+          "url": "sinaweibo://"
+        }
+      ]
+    },
+    {
+      "name": "支付宝集合",
+      "categories": [
+        {
           "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/52/7c/b0/527cb0ac-3e20-7b34-0562-db842d79cab8/source/60x60bb.jpg",
           "name": "蚂蚁森林",
           "url": "alipay://platformapi/startapp?appId=60000002"
@@ -99,41 +169,6 @@
           "url": "alipays://platformapi/startapp?appId=60000057",
           "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/52/7c/b0/527cb0ac-3e20-7b34-0562-db842d79cab8/source/60x60bb.jpg"
         },
-        {
-          "name": "淘宝",
-          "url": "taobao://",
-          "icon": "https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/ec/b4/1b/ecb41be4-7e56-a93b-e78a-ec9b74791e00/source/60x60bb.jpg"
-        }
-      ]
-    },
-    {
-      "name": "网页",
-      "categories": [
-        {
-          "name": "腾讯视频网页版",
-          "url": "https://v.qq.com",
-          "icon": "https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/d5/45/d1/d545d165-3629-5ad8-4b8d-f546f944e289/source/60x60bb.jpg"
-        },
-        {
-          "name": "爱奇艺网页版",
-          "url": "https://iqiyi.com",
-          "icon": "https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/51/f0/36/51f03630-f0f2-b907-5aad-295ee24d204b/source/60x60bb.jpg"
-        },
-        {
-          "name": "优酷网页版",
-          "url": "https://youku.com",
-          "icon": "https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/3f/a9/d9/3fa9d97c-df16-86b3-1aa5-32235762ade6/source/60x60bb.jpg"
-        },
-        {
-          "name": "芒果TV网页版",
-          "url": "https://mgtv.com",
-          "icon": "https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/34/e1/5b/34e15bba-5e09-af78-bc9d-5b03e7ae8f14/source/60x60bb.jpg"
-        },
-        {
-          "name": "乐视网页版",
-          "url": "http://le.com",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/e8/c4/a6/e8c4a6ed-7ac5-e34d-56b7-b804bdf850d7/source/60x60bb.jpg"
-        }
       ]
     },
     {
@@ -153,41 +188,6 @@
           "name": "优酷",
           "url": "youku://",
           "icon": "https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/3f/a9/d9/3fa9d97c-df16-86b3-1aa5-32235762ade6/source/512x512bb.jpg"
-        }
-      ]
-    },
-    {
-      "name": "其他",
-      "categories": [
-        {
-          "name": "王者荣耀助手",
-          "url": "qw1105200115://",
-          "icon": "https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/8a/98/36/8a9836ad-4df8-0d17-7b08-c225273eb91f/source/60x60bb.jpg"
-        },
-        {
-          "name": "全民K歌",
-          "url": "qmkege://",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/66/0e/97/660e97a2-8071-c216-0902-ca85654be37c/source/512x512bb.jpg"
-        },
-        {
-          "name": "PPhub",
-          "url": "pphub://",
-          "icon": "https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/40/87/86/408786b6-1431-d94e-9701-5ca8e41e6125/source/60x60bb.jpg"
-        }
-      ]
-    },
-    {
-      "name": "社交",
-      "categories": [
-        {
-          "name": "QQ HD",
-          "icon": "https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/ac/4d/07/ac4d0758-2717-38f4-e5b5-6b329ed2d6e5/source/60x60bb.jpg",
-          "url": "mqqflytickets://"
-        },
-        {
-          "name": "微博",
-          "icon": "https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/d1/f7/0c/d1f70cd0-0b37-fee9-3694-10cf46bc78a2/source/60x60bb.jpg",
-          "url": "weibo://"
         }
       ]
     },
@@ -242,7 +242,7 @@
         {
           "name": "滴滴",
           "url": "diditaxi://",
-          "iocn": "https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/d9/72/af/d972af58-c708-9d08-9952-971f63ead892/source/60x60bb.jpg"
+          "iocn": "https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/d9/72/af/d972af58-c708-9d08-9952-971f63ead892/source/512x512bb.jpg"
         }
       ]
     },
@@ -253,6 +253,26 @@
           "name": "游戏",
           "url": "tencentlaunch1104466820://",
           "icon": "https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/1e/eb/23/1eeb2384-ac6d-0f64-df60-6942258f394a/source/60x60bb.jpg"
+        }
+      ]
+    },
+    {
+      "name": "其他",
+      "categories": [
+        {
+          "name": "王者荣耀助手",
+          "url": "qw1105200115://",
+          "icon": "https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/8a/98/36/8a9836ad-4df8-0d17-7b08-c225273eb91f/source/60x60bb.jpg"
+        },
+        {
+          "name": "全民K歌",
+          "url": "qmkege://",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/66/0e/97/660e97a2-8071-c216-0902-ca85654be37c/source/512x512bb.jpg"
+        },
+        {
+          "name": "PPhub",
+          "url": "pphub://",
+          "icon": "https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/40/87/86/408786b6-1431-d94e-9701-5ca8e41e6125/source/60x60bb.jpg"
         }
       ]
     }
