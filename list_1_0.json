@@ -2,6 +2,36 @@
   "version": "0.0.1",
   "data": [
     {
+      "name": "推荐",
+      "categories": [
+        {
+          "name": "微信扫一扫",
+          "url": "weixin://scanqrcode",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/0f/bc/3c/0fbc3c2a-f664-c4e3-bda2-970146031f0e/source/512x512bb.jpg"
+        },
+        {
+          "name": "支付宝付款",
+          "url": "alipay://platformapi/startapp?appId=20000056",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/52/7c/b0/527cb0ac-3e20-7b34-0562-db842d79cab8/source/60x60bb.jpg"
+        },
+        {
+          "name": "腾讯视频网页版",
+          "url": "https://v.qq.com",
+          "icon": "https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/d5/45/d1/d545d165-3629-5ad8-4b8d-f546f944e289/source/60x60bb.jpg"
+        },
+        {
+          "name": "爱奇艺网页版",
+          "url": "https://iqiyi.com",
+          "icon": "https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/51/f0/36/51f03630-f0f2-b907-5aad-295ee24d204b/source/60x60bb.jpg"
+        },
+        {
+          "name": "优酷网页版",
+          "url": "https://youku.com",
+          "icon": "https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/3f/a9/d9/3fa9d97c-df16-86b3-1aa5-32235762ade6/source/60x60bb.jpg"
+        }
+      ]
+    },
+    {
       "name": "常用",
       "categories": [
         {
@@ -37,11 +67,6 @@
         {
           "name": "支付宝扫一扫",
           "url": "alipayqr://platformapi/startapp?saId=10000007",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/52/7c/b0/527cb0ac-3e20-7b34-0562-db842d79cab8/source/60x60bb.jpg"
-        },
-        {
-          "name": "支付宝付款",
-          "url": "alipay://platformapi/startapp?appId=20000056",
           "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/52/7c/b0/527cb0ac-3e20-7b34-0562-db842d79cab8/source/60x60bb.jpg"
         },
         {
@@ -118,12 +143,32 @@
           "name": "腾讯视频",
           "url": "tenvideo://",
           "icon": "https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/d5/45/d1/d545d165-3629-5ad8-4b8d-f546f944e289/source/60x60bb.jpg"
+        },
+        {
+          "name": "爱奇艺PPS",
+          "url": "ppstream://",
+          "icon": "https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/c4/8f/ab/c48fab05-e66a-867d-39df-28a6065aaf03/source/512x512bb.jpg"
+        },
+        {
+          "name": "优酷",
+          "url": "youku://",
+          "icon": "https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/3f/a9/d9/3fa9d97c-df16-86b3-1aa5-32235762ade6/source/512x512bb.jpg"
         }
       ]
     },
     {
       "name": "其他",
       "categories": [
+        {
+          "name": "王者荣耀助手",
+          "url": "qw1105200115://",
+          "icon": "https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/8a/98/36/8a9836ad-4df8-0d17-7b08-c225273eb91f/source/60x60bb.jpg"
+        },
+        {
+          "name": "全民K歌",
+          "url": "qmkege://",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/66/0e/97/660e97a2-8071-c216-0902-ca85654be37c/source/512x512bb.jpg"
+        }
         {
           "name": "PPhub",
           "url": "pphub://",
@@ -138,6 +183,76 @@
           "name": "QQ HD",
           "icon": "https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/ac/4d/07/ac4d0758-2717-38f4-e5b5-6b329ed2d6e5/source/60x60bb.jpg",
           "url": "mqqflytickets://"
+        },
+        {
+          "name": "微博",
+          "icon": "https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/d1/f7/0c/d1f70cd0-0b37-fee9-3694-10cf46bc78a2/source/60x60bb.jpg",
+          "url": "weibo://"
+        }
+      ]
+    },
+    {
+      "name": "导航",
+      "categories": [
+        {
+          "name": "高德地图",
+          "url": "iosamap://",
+          "icon": "https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/08/d2/65/08d26562-86f7-e655-72cc-46b85a42b736/source/512x512bb.jpg"
+        },
+        {
+          "name": "百度地图",
+          "url": "baidumap://",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/d6/04/d3/d604d3d2-d41a-2a2c-8459-d877e4ea3894/source/512x512bb.jpg"
+        },
+        {
+          "name": "腾讯地图",
+          "url": "sosomap://",
+          "icon": "https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/79/a3/f7/79a3f7c8-ea70-c0a2-9fbb-a3f2a7dd1097/source/512x512bb.jpg"
+        }
+      ]
+    },
+    {
+      "name": "新闻",
+      "categories": [
+        {
+          "name": "腾讯新闻",
+          "url": "qqnews://",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/51/4f/39/514f3931-2f89-a479-d9d0-5d09fe890043/source/512x512bb.jpg"
+        },
+        {
+          "name": "今日头条",
+          "url": "snssdk141://",
+          "icon": "https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/a4/b4/f8/a4b4f894-88cc-3304-907b-604856538042/source/512x512bb.jpg"
+        },
+        {
+          "name": "UC浏览器",
+          "url": "ucbrowser://",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/04/3a/26/043a26e5-a5df-e352-8c08-905eed4e457b/source/512x512bb.jpg",
+        },
+        {
+          "name": "虎扑",
+          "url": "tencent222049://",
+          "icon": "https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/05/f4/2a/05f42a78-62c5-fb66-59ec-cd064c35386a/source/60x60bb.jpg"
+        }
+      ]
+    },
+    {
+      "name": "旅游",
+      "categories": [
+        {
+          "name": "滴滴",
+          "url": "diditaxi://",
+          "iocn": "https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/d9/72/af/d972af58-c708-9d08-9952-971f63ead892/source/60x60bb.jpg"
+        }
+      ]
+    },
+    {
+      "name": "游戏",
+      "categories": [
+        {
+          "name": "游戏",
+          "url": "tencentlaunch1104466820://",
+          "icon": "https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/1e/eb/23/1eeb2384-ac6d-0f64-df60-6942258f394a/source/60x60bb.jpg"
         }
       ]
     }
