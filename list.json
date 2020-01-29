@@ -133,26 +133,11 @@
           "name": "乐视网页版",
           "url": "http://le.com",
           "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/e8/c4/a6/e8c4a6ed-7ac5-e34d-56b7-b804bdf850d7/source/60x60bb.jpg"
-        }
-      ]
-    },
-    {
-      "name": "视频",
-      "categories": [
-        {
-          "name": "腾讯视频",
-          "url": "tenvideo://",
-          "icon": "https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/d5/45/d1/d545d165-3629-5ad8-4b8d-f546f944e289/source/60x60bb.jpg"
         },
         {
-          "name": "爱奇艺PPS",
-          "url": "ppstream://",
-          "icon": "https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/c4/8f/ab/c48fab05-e66a-867d-39df-28a6065aaf03/source/512x512bb.jpg"
-        },
-        {
-          "name": "优酷",
-          "url": "youku://",
-          "icon": "https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/3f/a9/d9/3fa9d97c-df16-86b3-1aa5-32235762ade6/source/512x512bb.jpg"
+          "name": "微博热搜",
+          "url": "https://s.weibo.com/top/summary?cate=realtimehot",
+          "icon": "https://weibo.com/?topnav=1&mod=logo"
         }
       ]
     },
@@ -178,6 +163,26 @@
           "name": "微博",
           "icon": "https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/d1/f7/0c/d1f70cd0-0b37-fee9-3694-10cf46bc78a2/source/60x60bb.jpg",
           "url": "sinaweibo://"
+        }
+      ]
+    },
+    {
+      "name": "视频",
+      "categories": [
+        {
+          "name": "腾讯视频",
+          "url": "tenvideo://",
+          "icon": "https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/d5/45/d1/d545d165-3629-5ad8-4b8d-f546f944e289/source/60x60bb.jpg"
+        },
+        {
+          "name": "爱奇艺PPS",
+          "url": "ppstream://",
+          "icon": "https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/c4/8f/ab/c48fab05-e66a-867d-39df-28a6065aaf03/source/512x512bb.jpg"
+        },
+        {
+          "name": "优酷",
+          "url": "youku://",
+          "icon": "https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/3f/a9/d9/3fa9d97c-df16-86b3-1aa5-32235762ade6/source/512x512bb.jpg"
         }
       ]
     },
