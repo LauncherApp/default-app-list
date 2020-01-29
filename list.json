@@ -157,26 +157,6 @@
       ]
     },
     {
-      "name": "其他",
-      "categories": [
-        {
-          "name": "王者荣耀助手",
-          "url": "qw1105200115://",
-          "icon": "https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/8a/98/36/8a9836ad-4df8-0d17-7b08-c225273eb91f/source/60x60bb.jpg"
-        },
-        {
-          "name": "全民K歌",
-          "url": "qmkege://",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/66/0e/97/660e97a2-8071-c216-0902-ca85654be37c/source/512x512bb.jpg"
-        },
-        {
-          "name": "PPhub",
-          "url": "pphub://",
-          "icon": "https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/40/87/86/408786b6-1431-d94e-9701-5ca8e41e6125/source/60x60bb.jpg"
-        }
-      ]
-    },
-    {
       "name": "社交",
       "categories": [
         {
@@ -185,9 +165,19 @@
           "url": "mqqflytickets://"
         },
         {
+          "name": "知乎",
+          "url": "zhihu://",
+          "icon": "https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/81/ec/79/81ec7958-542c-d1c7-7301-dde8f2045854/source/512x512bb.jpg"
+        },
+        {
+          "name": "微博极速版",
+          "icon": "https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/a3/80/5f/a3805fa0-66f2-ed14-582b-0e6dffa52130/source/512x512bb.jpg",
+          "url": "weibo://"
+        },
+        {
           "name": "微博",
           "icon": "https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/d1/f7/0c/d1f70cd0-0b37-fee9-3694-10cf46bc78a2/source/60x60bb.jpg",
-          "url": "weibo://"
+          "url": "sinaweibo://"
         }
       ]
     },
@@ -253,6 +243,26 @@
           "name": "游戏",
           "url": "tencentlaunch1104466820://",
           "icon": "https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/1e/eb/23/1eeb2384-ac6d-0f64-df60-6942258f394a/source/60x60bb.jpg"
+        }
+      ]
+    },
+    {
+      "name": "其他",
+      "categories": [
+        {
+          "name": "王者荣耀助手",
+          "url": "qw1105200115://",
+          "icon": "https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/8a/98/36/8a9836ad-4df8-0d17-7b08-c225273eb91f/source/60x60bb.jpg"
+        },
+        {
+          "name": "全民K歌",
+          "url": "qmkege://",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/66/0e/97/660e97a2-8071-c216-0902-ca85654be37c/source/512x512bb.jpg"
+        },
+        {
+          "name": "PPhub",
+          "url": "pphub://",
+          "icon": "https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/40/87/86/408786b6-1431-d94e-9701-5ca8e41e6125/source/60x60bb.jpg"
         }
       ]
     }
