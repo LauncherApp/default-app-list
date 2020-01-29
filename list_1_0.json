@@ -168,7 +168,7 @@
           "name": "蚂蚁宝卡",
           "url": "alipays://platformapi/startapp?appId=60000057",
           "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/52/7c/b0/527cb0ac-3e20-7b34-0562-db842d79cab8/source/60x60bb.jpg"
-        },
+        }
       ]
     },
     {
