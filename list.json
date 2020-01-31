@@ -93,6 +93,11 @@
           "name": "微博热搜",
           "url": "https://s.weibo.com/top/summary?cate=realtimehot",
           "icon": "https://m.weibo.cn/favicon.ico"
+        },
+        {
+          "name": "知乎热搜",
+          "url": "https://www.zhihu.com/billboard",
+          "icon": "https://static.zhihu.com/heifetz/assets/apple-touch-icon-152.67c7b278.png"
         }
       ]
     },
