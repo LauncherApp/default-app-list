@@ -42,32 +42,32 @@
       "url": "ibooks://"
     },
     {
-      "icon": "https://github.com/LauncherApp/default-app-list/blob/master/assets/placeholder.png?raw=true",
+      "icon": "https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/ec/ce/ff/ecceff7e-f1da-e38e-1c90-9b35561b5153/source/512x512bb.jpg",
       "name": "iMovie",
       "url": "imovie://"
     },
     {
-      "icon": "https://github.com/LauncherApp/default-app-list/blob/master/assets/placeholder.png?raw=true",
+      "icon": "https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/92/12/64/921264bc-caaa-292b-2322-5146b2a25799/source/512x512bb.jpg",
       "name": "iTunes Remote",
       "url": "remote://"
     },
     {
-      "icon": "https://github.com/LauncherApp/default-app-list/blob/master/assets/placeholder.png?raw=true",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/18/f1/6e/18f16eac-e54b-d0f7-49a9-82a86d94fe69/source/512x512bb.jpg",
       "name": "iTunes Store",
       "url": "itms://"
     },
     {
-      "icon": "https://github.com/LauncherApp/default-app-list/blob/master/assets/placeholder.png?raw=true",
+      "icon": "https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/1a/64/5d/1a645d8d-1cc3-230c-b1ef-681c077d7d39/source/512x512bb.jpg",
       "name": "Maps",
       "url": "map://"
     },
     {
-      "icon": "https://github.com/LauncherApp/default-app-list/blob/master/assets/placeholder.png?raw=true",
+      "icon": "https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/24/6f/73/246f7390-ef66-7ac9-4bce-2ebe9438b9b7/source/512x512bb.jpge",
       "name": "iTunes U",
       "url": "itms-itunesu://"
     },
     {
-      "icon": "https://github.com/LauncherApp/default-app-list/blob/master/assets/placeholder.png?raw=true",
+      "icon": "https://user-images.githubusercontent.com/9990834/74130321-c10ef680-4c1c-11ea-8b96-219e56f1041c.png",
       "name": "Mail",
       "url": "message://"
     },
@@ -84,7 +84,7 @@
       "url": "mobilenotes://"
     },
     {
-      "icon": "https://github.com/LauncherApp/default-app-list/blob/master/assets/placeholder.png?raw=true",
+      "icon": "https://user-images.githubusercontent.com/9990834/74130188-768d7a00-4c1c-11ea-9377-b9f92a41bc09.png",
       "name": "Phone",
       "url": "tel://",
       "need_extra": true,
@@ -96,7 +96,7 @@
       "url": "photos-redirect://"
     },
     {
-      "icon": "https://github.com/LauncherApp/default-app-list/blob/master/assets/placeholder.png?raw=true",
+      "icon": "https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/35/fb/9b/35fb9ba2-9cc0-44e6-74a9-74f0503cbda4/source/512x512bb.jpg",
       "name": "Podcasts",
       "url": "podcast://"
     },
@@ -106,7 +106,7 @@
       "url": "x-apple-reminder://"
     },
     {
-      "icon": "https://github.com/LauncherApp/default-app-list/blob/master/assets/placeholder.png?raw=true",
+      "icon": "https://user-images.githubusercontent.com/9990834/74130041-0da60200-4c1c-11ea-9b73-d5fa2206572f.png",
       "name": "Safari",
       "url": "x-web-search://"
     },
@@ -116,7 +116,7 @@
       "url": "App-prefs://"
     },
     {
-      "icon": "https://github.com/LauncherApp/default-app-list/blob/master/assets/placeholder.png?raw=true",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/49/3b/9e/493b9e75-ebd7-f1b3-0d19-18cf5ba02587/source/512x512bb.jpg",
       "name": "Shortcuts",
       "url": "shortcuts://"
     },
@@ -131,14 +131,9 @@
       "url": "shoebox://"
     },
     {
-      "icon": "https://github.com/LauncherApp/default-app-list/blob/master/assets/placeholder.png?raw=true",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/5b/73/d9/5b73d9ce-111c-ec42-e92f-f4d83a23cb5f/source/512x512bb.jpg",
       "name": "Watch",
       "url": "itms-watchs://"
-    },
-    {
-      "icon": "https://github.com/LauncherApp/default-app-list/blob/master/assets/placeholder.png?raw=true",
-      "name": "Workflow",
-      "url": "workflow://"
     }
   ]
 }
