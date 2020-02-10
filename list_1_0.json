@@ -185,8 +185,8 @@
           "icon": "https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/d5/45/d1/d545d165-3629-5ad8-4b8d-f546f944e289/source/60x60bb.jpg"
         },
         {
-          "name": "爱奇艺PPS",
-          "url": "ppstream://",
+          "name": "爱奇艺",
+          "url": "iqiyi://",
           "icon": "https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/c4/8f/ab/c48fab05-e66a-867d-39df-28a6065aaf03/source/512x512bb.jpg"
         },
         {
