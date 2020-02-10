@@ -7,12 +7,12 @@
       "url": "music://"
     },
     {
-      "icon": "https://github.com/LauncherApp/default-app-list/blob/master/assets/placeholder.png?raw=true",
+      "icon": "https://user-images.githubusercontent.com/9990834/74128537-5956ac80-4c18-11ea-86ef-e4597db28a17.png",
       "name": "Apple News",
       "url": "applenews://"
     },
     {
-      "icon": "https://github.com/LauncherApp/default-app-list/blob/master/assets/placeholder.png?raw=true",
+      "icon": "https://user-images.githubusercontent.com/9990834/74128500-4a6ffa00-4c18-11ea-8fa2-d1b371635ef2.png",
       "name": "App Store",
       "url": "itms-apps://itunes.apple.com"
     },
@@ -72,7 +72,7 @@
       "url": "message://"
     },
     {
-      "icon": "https://github.com/LauncherApp/default-app-list/blob/master/assets/placeholder.png?raw=true",
+      "icon": "https://user-images.githubusercontent.com/9990834/74128533-578ce900-4c18-11ea-9d13-1c709fc6ce9b.png",
       "name": "Messages",
       "url": "sms://",
       "need_extra": true,
@@ -91,7 +91,7 @@
       "extra_text": "请输出邮箱或手机号"
     },
     {
-      "icon": "https://github.com/LauncherApp/default-app-list/blob/master/assets/placeholder.png?raw=true",
+      "icon": "https://user-images.githubusercontent.com/9990834/74128541-5b207000-4c18-11ea-8441-e2369cd915f1.png",
       "name": "Photos",
       "url": "photos-redirect://"
     },
@@ -101,7 +101,7 @@
       "url": "podcast://"
     },
     {
-      "icon": "https://github.com/LauncherApp/default-app-list/blob/master/assets/placeholder.png?raw=true",
+      "icon": "https://user-images.githubusercontent.com/9990834/74128539-59ef4300-4c18-11ea-8132-b02cdb6d78ff.png",
       "name": "Reminders",
       "url": "x-apple-reminder://"
     },
@@ -111,7 +111,7 @@
       "url": "x-web-search://"
     },
     {
-      "icon": "https://github.com/LauncherApp/default-app-list/blob/master/assets/placeholder.png?raw=true",
+      "icon": "https://user-images.githubusercontent.com/9990834/74128548-5c519d00-4c18-11ea-9296-061501eec360.png",
       "name": "Settings",
       "url": "App-prefs://"
     },
@@ -121,12 +121,12 @@
       "url": "shortcuts://"
     },
     {
-      "icon": "https://github.com/LauncherApp/default-app-list/blob/master/assets/placeholder.png?raw=true",
+      "icon": "https://user-images.githubusercontent.com/9990834/74128551-5d82ca00-4c18-11ea-8aed-7633e3c4d72a.png",
       "name": "Voice Memos",
       "url": "voicememos://"
     },
     {
-      "icon": "https://github.com/LauncherApp/default-app-list/blob/master/assets/placeholder.png?raw=true",
+      "icon": "https://user-images.githubusercontent.com/9990834/74128553-5e1b6080-4c18-11ea-8299-85921535576a.png",
       "name": "Wallet",
       "url": "shoebox://"
     },
