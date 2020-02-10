@@ -247,7 +247,7 @@
         {
           "name": "滴滴",
           "url": "diditaxi://",
-          "iocn": "https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/d9/72/af/d972af58-c708-9d08-9952-971f63ead892/source/512x512bb.jpg"
+          "icon": "https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/d9/72/af/d972af58-c708-9d08-9952-971f63ead892/source/512x512bb.jpg"
         }
       ]
     },
