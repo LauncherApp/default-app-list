@@ -161,7 +161,7 @@
         },
         {
           "name": "支付宝手机充值",
-          "url": "alipayqr: //platformapi/startapp?saId=10000003",
+          "url": "alipayqr://platformapi/startapp?saId=10000003",
           "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/52/7c/b0/527cb0ac-3e20-7b34-0562-db842d79cab8/source/60x60bb.jpg"
         },
         {
