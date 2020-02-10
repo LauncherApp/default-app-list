@@ -2,7 +2,7 @@
   "version": "1.0",
   "data": [
     {
-      "icon": "https://github.com/LauncherApp/default-app-list/blob/master/assets/placeholder.png?raw=true",
+      "icon": "https://user-images.githubusercontent.com/9990834/74129257-15fd3d80-4c1a-11ea-9880-f82ee4d26ade.png",
       "name": "Music",
       "url": "music://"
     },
@@ -17,7 +17,7 @@
       "url": "itms-apps://itunes.apple.com"
     },
     {
-      "icon": "https://github.com/LauncherApp/default-app-list/blob/master/assets/placeholder.png?raw=true",
+      "icon": "https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/1b/b2/63/1bb26335-766c-5284-0f3f-3f0ac301d1a1/source/512x512bb.jpg",
       "name": "Apple TV",
       "url": "videos://"
     },
@@ -79,7 +79,7 @@
       "extra_text": "请输出邮箱或手机号"
     },
     {
-      "icon": "https://github.com/LauncherApp/default-app-list/blob/master/assets/placeholder.png?raw=true",
+      "icon": "https://user-images.githubusercontent.com/9990834/74128539-59ef4300-4c18-11ea-8132-b02cdb6d78ff.png",
       "name": "Notes",
       "url": "mobilenotes://"
     },
@@ -101,7 +101,7 @@
       "url": "podcast://"
     },
     {
-      "icon": "https://user-images.githubusercontent.com/9990834/74128539-59ef4300-4c18-11ea-8132-b02cdb6d78ff.png",
+      "icon": "https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/2b/e0/a6/2be0a639-48fc-52e9-7e64-28d96a2ff377/source/512x512bb.jpg",
       "name": "Reminders",
       "url": "x-apple-reminder://"
     },
