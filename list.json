@@ -8,13 +8,13 @@
       "categories": [
         {
           "name": "开发者blog",
-          "url": "https://blog.vsccw",
+          "url": "https://blog.vsccw.com",
           "icon": "https://blog.vsccw.com/assets/favicon.ico"
         },
         {
           "name": "开发者GitHub",
-          "url": "https://blog.vsccw",
-          "icon": "https://avatars3.githubusercontent.com/u/33986144?s=60&v=4"
+          "url": "https://blog.vsccw.com",
+          "icon": "https://images.gitee.com/uploads/images/2020/0213/024456_9084f0ec_784396.png"
         }
       ]
     },
