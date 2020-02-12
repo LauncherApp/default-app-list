@@ -1,5 +1,39 @@
 {
-  "version": "0.0.1",
+  "is_review": false,
+  "build": 79,
+  "version": "1.0.1",
+  "review": [
+    {
+      "name": "常用网页",
+      "categories": [
+        {
+          "name": "开发者blog",
+          "url": "https://blog.vsccw",
+          "icon": "https://blog.vsccw.com/assets/favicon.ico"
+        },
+        {
+          "name": "开发者GitHub",
+          "url": "https://blog.vsccw",
+          "icon": "https://avatars3.githubusercontent.com/u/33986144?s=60&v=4"
+        }
+      ]
+    },
+    {
+      "name": "常用App",
+      "categories": [
+        {
+          "name": "微信扫一扫",
+          "url": "weixin://scanqrcode",
+          "icon": "https://images.gitee.com/uploads/images/2020/0213/021641_f626b494_784396.png"
+        },
+        {
+          "icon": "https://images.gitee.com/uploads/images/2020/0213/021718_7510a86e_784396.png",
+          "name": "支付宝",
+          "url": "alipay://"
+        }
+      ]
+    }
+  ],
   "data": [
     {
       "name": "推荐",
