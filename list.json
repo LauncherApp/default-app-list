@@ -4,7 +4,7 @@
   "version": "1.0.1",
   "review": [
     {
-      "name": "常用网页",
+      "name": "试试打开以下网页",
       "categories": [
         {
           "name": "开发者blog",
@@ -19,7 +19,7 @@
       ]
     },
     {
-      "name": "常用App",
+      "name": "试试打开以下App",
       "categories": [
         {
           "name": "微信扫一扫",
