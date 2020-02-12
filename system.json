@@ -57,11 +57,6 @@
       "url": "map://"
     },
     {
-      "icon": "https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/24/6f/73/246f7390-ef66-7ac9-4bce-2ebe9438b9b7/source/512x512bb.jpge",
-      "name": "iTunes U",
-      "url": "itms-itunesu://"
-    },
-    {
       "icon": "https://user-images.githubusercontent.com/9990834/74130321-c10ef680-4c1c-11ea-8b96-219e56f1041c.png",
       "name": "Mail",
       "url": "message://"
