@@ -32,6 +32,21 @@
           "url": "alipay://"
         }
       ]
+    },
+    {
+      "nama": "拨打电话",
+      "categories": [
+        {
+          "name": "VSCCW",
+          "url": "tel://+8617600636630",
+          "icon": "https://images.gitee.com/uploads/images/2020/0213/121208_352cd58f_784396.png"
+        },
+        {
+          "name": "QIUNCHENG",
+          "url": "tel://+8617710226630",
+          "icon": "https://images.gitee.com/uploads/images/2020/0213/121319_e6794295_784396.png"
+        }
+      ]
     }
   ],
   "data": [
