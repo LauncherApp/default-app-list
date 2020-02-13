@@ -24,12 +24,27 @@
         {
           "name": "微信扫一扫",
           "url": "weixin://scanqrcode",
-          "icon": "https://images.gitee.com/uploads/images/2020/0213/021641_f626b494_784396.png"
+          "icon": "https://images.gitee.com/uploads/images/2020/0213/120341_c7edff15_784396.png"
         },
         {
           "icon": "https://images.gitee.com/uploads/images/2020/0213/021718_7510a86e_784396.png",
           "name": "支付宝",
           "url": "alipay://"
+        }
+      ]
+    },
+    {
+      "name": "拨打电话",
+      "categories": [
+        {
+          "name": "VSCCW",
+          "url": "tel://+8617600636630",
+          "icon": "https://images.gitee.com/uploads/images/2020/0213/121208_352cd58f_784396.png"
+        },
+        {
+          "name": "QIUNCHENG",
+          "url": "tel://+8617710226630",
+          "icon": "https://images.gitee.com/uploads/images/2020/0213/121319_e6794295_784396.png"
         }
       ]
     }
