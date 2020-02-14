@@ -1,0 +1,35 @@
+{
+  "version": "1.1",
+  "data": {
+    "can_url_prefix": [
+      "www.iqiyi.com",
+      "le.com",
+      "www.le.com",
+      "v.qq.com",
+      "www.v.qq.com",
+      "youku.com",
+      "v.youku.com",
+      "www.youku.com",
+      "www.mgtv.com",
+      "tudou.com",
+      "www.tudou.com",
+      "www.pptv.com",
+      "tv.sohu.com",
+      "m.le.com",
+      "m.iqiyi.com",
+      "m.mgtv.com",
+      "compaign.tudou.com",
+      "m.v.qq.com",
+      "m.youku.com",
+      "m.tv.sohu.com",
+      "m.pptv.com"
+    ],
+    "parse_models": [
+      {
+        "name": "解析",
+        "format": ""
+      }
+    ],
+    "prefer_url": "https://cn.bjbanshan.cn/jiexi.php?url=%@"
+  }
+}
