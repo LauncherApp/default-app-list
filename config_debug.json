@@ -58,6 +58,11 @@
       "name": "线路七",
       "desc": "2A解析",
       "format": "https://www.2ajx.com/vip.php?url=h"
+    },
+    {
+      "name": "线路八",
+      "desc": "石头云解析",
+      "format": "http://jiexi.071811.cc/jx2.php?url="
     }
   ],
   "prefer_url": {
