@@ -48,6 +48,16 @@
       "name": "线路五",
       "desc": "8090解析",
       "format": "https://www.8090g.cn/jiexi/?url="
+    },
+    {
+      "name": "线路六",
+      "desc": "TV920解析",
+      "format": "https://api.tv920.com/vip/?url="
+    },
+    {
+      "name": "线路七",
+      "desc": "2A解析",
+      "format": "https://www.2ajx.com/vip.php?url=h"
     }
   ],
   "prefer_url": {
