@@ -25,7 +25,7 @@
   ],
   "parse_models": [
     {
-      "name": "线路一",
+      "name": "线路一 (推荐)",
       "desc": "黑云解析",
       "format": "https://jiexi.380k.com/?url="
     },
