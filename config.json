@@ -10,8 +10,8 @@
     "http://m.v.qq.com/x/m/play",
     "http://m.v.qq.com/x/cover/",
     "http://m.v.qq.com/cover/v",
-    "http://v.qq.com/x/cover",
     "http://m.v.qq.com/cover/e",
+    "http://v.qq.com/x/cover",
     "http://v.qq.com/cover/v",
     "http://v.qq.com/x/m/play",
     "https://m.youku.com/alipay_video",
@@ -22,7 +22,9 @@
     "https://www.iqiyi.com/v_",
     "https://www.mgtv.com/b/",
     "https://m.mgtv.com/b/",
-    "https://m.mgtv.com/l/"
+    "https://m.mgtv.com/l/",
+    "http://m.le.com/vplay",
+    "http://www.le.com/ptv/vplay"
   ],
   "parse_models": [
     {
@@ -64,6 +66,11 @@
       "name": "线路八",
       "desc": "石头云解析",
       "format": "http://jiexi.071811.cc/jx2.php?url="
+    },
+    {
+      "name": "线路九",
+      "desc": "石云解析",
+      "format": "https://jiexi.071811.cc/jx.php?url="
     }
   ],
   "prefer_url": {
