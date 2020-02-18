@@ -66,8 +66,8 @@
     },
     {
       "name": "线路九",
-      "desc": "17K云解析",
-      "format": "http://17kyun.com/api.php?url="
+      "desc": "石云解析",
+      "format": "https://jiexi.071811.cc/jx.php?url="
     }
   ],
   "prefer_url": {
