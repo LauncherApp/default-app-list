@@ -31,8 +31,8 @@
     },
     {
       "name": "线路二",
-      "desc": "OK解析",
-      "format": "http://okjx.cc/?url="
+      "desc": "m1907解析",
+      "format": "https://z1.m1907.cn/?jx="
     },
     {
       "name": "线路三",
@@ -41,8 +41,8 @@
     },
     {
       "name": "线路四 (多集)",
-      "desc": "m1907解析",
-      "format": "https://z1.m1907.cn/?jx="
+      "desc": "OK解析",
+      "format": "http://okjx.cc/?url="
     },
     {
       "name": "线路五",
