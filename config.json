@@ -31,7 +31,7 @@
       "format": "https://jiexi.380k.com/?url="
     },
     {
-      "name": "线路二",
+      "name": "线路二 (多集)",
       "desc": "m1907解析",
       "format": "https://z1.m1907.cn/?jx="
     },
@@ -41,7 +41,7 @@
       "format": "https://api.v6.chat/?url="
     },
     {
-      "name": "线路四 (多集)",
+      "name": "线路四",
       "desc": "OK解析",
       "format": "http://okjx.cc/?url="
     },
