@@ -9,8 +9,7 @@
     "https://v.qq.com/x/m/play",
     "http://m.v.qq.com/x/m/play",
     "http://m.v.qq.com/x/cover/",
-    "http://m.v.qq.com/cover/v",
-    "http://m.v.qq.com/cover/e",
+    "http://m.v.qq.com/cover/",
     "http://v.qq.com/x/cover",
     "http://v.qq.com/cover/v",
     "http://v.qq.com/x/m/play",
@@ -24,9 +23,7 @@
     "https://m.mgtv.com/b/",
     "https://m.mgtv.com/l/",
     "http://m.le.com/vplay",
-    "http://www.le.com/ptv/vplay",
-    "https://m.bilibili.com/video/",
-    "https://www.bilibili.com/video"
+    "http://www.le.com/ptv/vplay"
   ],
   "parse_models": [
     {
