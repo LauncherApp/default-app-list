@@ -24,7 +24,9 @@
     "https://m.mgtv.com/b/",
     "https://m.mgtv.com/l/",
     "http://m.le.com/vplay",
-    "http://www.le.com/ptv/vplay"
+    "http://www.le.com/ptv/vplay",
+    "https://m.bilibili.com/video/",
+    "https://www.bilibili.com/video"
   ],
   "parse_models": [
     {
