@@ -1,6 +1,6 @@
 {
-  "is_review": false,
-  "build": 81,
+  "is_review": true,
+  "build": 86,
   "version": "1.1",
   "can_url_prefix": [
     "https://m.v.qq.com/x/m/play",
