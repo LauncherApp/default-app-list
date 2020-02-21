@@ -42,36 +42,41 @@
     },
     {
       "name": "线路三",
+      "desc": "97解析",
+      "format": "http://aip.97yx.vip/index.php?url="
+    },
+    {
+      "name": "线路四",
       "desc": "音萌云解析",
       "format": "https://api.v6.chat/?url="
     },
     {
-      "name": "线路四",
+      "name": "线路五",
       "desc": "OK解析",
       "format": "http://okjx.cc/?url="
     },
     {
-      "name": "线路五",
+      "name": "线路六",
       "desc": "8090解析",
       "format": "https://www.8090g.cn/jiexi/?url="
     },
     {
-      "name": "线路六",
+      "name": "线路七",
       "desc": "TV920解析",
       "format": "https://api.tv920.com/vip/?url="
     },
     {
-      "name": "线路七",
+      "name": "线路八",
       "desc": "2A解析",
       "format": "https://www.2ajx.com/vip.php?url=h"
     },
     {
-      "name": "线路八",
+      "name": "线路九",
       "desc": "石头云解析",
       "format": "http://jiexi.071811.cc/jx2.php?url="
     },
     {
-      "name": "线路九",
+      "name": "线路十",
       "desc": "石云解析",
       "format": "https://jiexi.071811.cc/jx.php?url="
     }
