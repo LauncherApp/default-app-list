@@ -36,6 +36,11 @@
       "format": "https://jiexi.380k.com/?url="
     },
     {
+      "name": "BL解析 (推荐)",
+      "desc": "BL解析",
+      "format": "https://vip.bljiex.com/?v="
+    },
+    {
       "name": "线路二 (多集)",
       "desc": "m1907解析",
       "format": "https://z1.m1907.cn/?jx="
@@ -68,7 +73,7 @@
     {
       "name": "线路八",
       "desc": "2A解析",
-      "format": "https://www.2ajx.com/vip.php?url=h"
+      "format": "https://www.2ajx.com/vip.php?url="
     },
     {
       "name": "线路九",
