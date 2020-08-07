@@ -31,54 +31,89 @@
   ],
   "parse_models": [
     {
-      "name": "线路一 (推荐)",
-      "desc": "黑云解析",
-      "format": "https://jiexi.380k.com/?url="
-    },
-    {
-      "name": "线路二 (多集)",
-      "desc": "m1907解析",
-      "format": "https://z1.m1907.cn/?jx="
-    },
-    {
-      "name": "线路三",
-      "desc": "97解析",
+      "desc": "",
+      "name": "97解析",
       "format": "http://aip.97yx.vip/index.php?url="
     },
     {
-      "name": "线路四",
-      "desc": "音萌云解析",
+      "desc": "",
+      "name": "音萌云解析",
       "format": "https://api.v6.chat/?url="
     },
     {
-      "name": "线路五",
-      "desc": "OK解析",
+      "desc": "",
+      "name": "OK解析",
       "format": "http://okjx.cc/?url="
     },
     {
-      "name": "线路六",
-      "desc": "8090解析",
+      "desc": "",
+      "name": "8090解析",
       "format": "https://www.8090g.cn/jiexi/?url="
     },
     {
-      "name": "线路七",
-      "desc": "TV920解析",
+      "desc": "",
+      "name": "TV920解析",
       "format": "https://api.tv920.com/vip/?url="
     },
     {
-      "name": "线路八",
-      "desc": "2A解析",
+      "desc": "",
+      "name": "检测4",
+      "format": "http://17kyun.com/api.php?url="
+    },
+    {
+      "desc": "",
+      "name": "检测6",
+      "format": "http://api.nobij.top/jx/?url="
+    },
+    {
+      "desc": "",
+      "name": "检测9",
+      "format": "https://vip.bljiex.com/?v="
+    },
+    {
+      "desc": "",
+      "name": "检测22",
+      "format": "http://jx.drgxj.com/?url="
+    },
+    {
+      "name": "凉城解析",
+      "desc": "",
+      "format": "http://jx.mw0.cc/?url="
+    },
+    {
+      "desc": "",
+      "name": "初心解析",
+      "format": "http://jx.bwcxy.com/?v="
+    },
+    {
+      "desc": "",
+      "name": "FF解析",
+      "format": "https://vip.66parse.club/?url="
+    },
+    {
+      "desc": "",
+      "name": "金桥解析",
+      "format": "https://vip.66parse.club/?url="
+    },
+    {
+      "desc": "",
+      "name": "豪华啦",
+      "format": "http://jx.bwcxy.com/?v="
+    },
+    {
+      "desc": "",
+      "name": "蚂蚁5",
+      "format": "https://vip.66parse.club/?url="
+    },
+    {
+      "desc": "",
+      "name": "2A解析",
       "format": "https://www.2ajx.com/vip.php?url="
     },
     {
-      "name": "线路九",
-      "desc": "石头云解析",
+      "desc": "",
+      "name": "石头云解析",
       "format": "http://jiexi.071811.cc/jx2.php?url="
-    },
-    {
-      "name": "线路十",
-      "desc": "石云解析",
-      "format": "https://jiexi.071811.cc/jx.php?url="
     }
   ],
   "prefer_url": {
