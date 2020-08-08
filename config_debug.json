@@ -1,5 +1,5 @@
 {
-  "is_review": false,
+  "is_review": true,
   "build": 133,
   "version": "1.1",
   "can_url_prefix": [
