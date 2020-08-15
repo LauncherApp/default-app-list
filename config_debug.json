@@ -52,9 +52,9 @@
       "format": "http://okjx.cc/?url="
     },
     {
-      "desc": "",
-      "name": "久播解析",
-      "format": "https://jx.jiubojx.com/vip.php?url="
+      "desc": "测试节点",
+      "name": "18云解析",
+      "format": "http://api.nobij.top/jx/?url="
     },
     {
       "desc": "",
