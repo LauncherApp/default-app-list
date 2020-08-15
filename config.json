@@ -52,11 +52,6 @@
     },
     {
       "desc": "",
-      "name": "久播解析",
-      "format": "https://jx.jiubojx.com/vip.php?url="
-    },
-    {
-      "desc": "",
       "name": "8090解析",
       "format": "https://www.8090g.cn/jiexi/?url="
     },
