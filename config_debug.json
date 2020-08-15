@@ -2,6 +2,7 @@
   "is_review": false,
   "build": 134,
   "version": "1.1",
+  "disable_auto_close": false,
   "can_url_prefix": [
     "https://m.v.qq.com/x/m/play",
     "https://m.v.qq.com/x/cover/",
