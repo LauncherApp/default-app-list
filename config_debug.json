@@ -68,6 +68,16 @@
     },
     {
       "desc": "",
+      "name": "死神解析",
+      "format": "https://api.sigujx.com/?url="
+    },
+    {
+      "desc": "",
+      "name": "sigu解析",
+      "format": "https://api.sigujx.com/?url="
+    },
+    {
+      "desc": "",
       "name": "检测4",
       "format": "http://17kyun.com/api.php?url="
     },
