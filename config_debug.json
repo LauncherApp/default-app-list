@@ -1,6 +1,6 @@
 {
-  "is_review": false,
-  "build": 144,
+  "is_review": true,
+  "build": 147,
   "version": "1.1",
   "disable_auto_close": false,
   "can_url_prefix": [
