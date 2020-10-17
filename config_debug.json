@@ -32,6 +32,11 @@
   ],
   "parse_models": [
     {
+      "name": "测试线路1二度",
+      "desc": "二度",
+      "format": "http://cs.drgxj.com/?url="
+    },
+    {
       "name": "线路二 (多集)",
       "desc": "m1907解析",
       "format": "https://z1.m1907.cn/?jx="
