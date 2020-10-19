@@ -73,11 +73,6 @@
     },
     {
       "desc": "",
-      "name": "死神解析",
-      "format": "https://api.sigujx.com/?url="
-    },
-    {
-      "desc": "",
       "name": "sigu解析",
       "format": "https://api.sigujx.com/?url="
     },
@@ -85,11 +80,6 @@
       "desc": "",
       "name": "检测4",
       "format": "http://17kyun.com/api.php?url="
-    },
-    {
-      "desc": "",
-      "name": "检测6",
-      "format": "http://api.nobij.top/jx/?url="
     },
     {
       "desc": "",
@@ -109,21 +99,6 @@
     {
       "desc": "",
       "name": "初心解析",
-      "format": "http://jx.bwcxy.com/?v="
-    },
-    {
-      "desc": "",
-      "name": "FF解析",
-      "format": "https://vip.66parse.club/?url="
-    },
-    {
-      "desc": "",
-      "name": "金桥解析",
-      "format": "https://vip.66parse.club/?url="
-    },
-    {
-      "desc": "",
-      "name": "豪华啦",
       "format": "http://jx.bwcxy.com/?v="
     },
     {
